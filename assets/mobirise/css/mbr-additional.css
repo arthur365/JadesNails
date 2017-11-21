@@ -1813,3 +1813,26 @@ body {
 .cid-qBxNJfSrWc H2 {
   color: #cccccc;
 }
+.cid-qBDqRU9tg6 {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #eb7c98;
+}
+.cid-qBDqRU9tg6 [class^="socicon-"]:before,
+.cid-qBDqRU9tg6 [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-qBDqRU9tg6 .btn-social {
+  border-color: #ff7f9f;
+}
+.cid-qBDqRU9tg6 .btn-social:hover {
+  background: #ff7f9f;
+}
+.cid-qBDqRU9tg6 .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-qBDqRU9tg6 .btn {
+    font-size: 20px !important;
+  }
+}
