@@ -1338,6 +1338,8 @@ body {
   min-height: 100vh;
 }
 .cid-qBxJGtMkY1 {
+  padding-top: 135px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/nails-779x768.jpg");
 }
 .cid-qBxJGtMkY1 h1 {
@@ -1396,6 +1398,12 @@ body {
 }
 .cid-qBBWcNOToN .team-item .item-caption {
   background: #efefef;
+}
+.cid-qBBWcNOToN .item-name {
+  color: #d76a86;
+}
+.cid-qBBWcNOToN .item-role P {
+  color: #d76a86;
 }
 .cid-qBxLPlFxp4 .navbar {
   padding: .5rem 0;
