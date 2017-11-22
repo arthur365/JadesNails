@@ -2311,8 +2311,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/n-194x259.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -2345,8 +2345,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/nail-226x223.png",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
