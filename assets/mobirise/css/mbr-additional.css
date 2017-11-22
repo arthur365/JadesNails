@@ -579,8 +579,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  opacity: 0 !important;
+#scrollToTop a {
+  border-radius: 100px;
 }
 /* Others*/
 .note-check a[data-value=Rubik] {
@@ -3434,8 +3434,8 @@ body {
   }
 }
 .cid-qBHHO0ShMx {
-  padding-top: 60px;
-  padding-bottom: 45px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #ef95ac;
 }
 .cid-qBHHO0ShMx .socicon-bg-facebook {
