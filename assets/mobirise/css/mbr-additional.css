@@ -3902,36 +3902,3 @@ body {
 .cid-rkOLFplKPV H2 {
   color: #cccccc;
 }
-.cid-rkOLFsfq1T {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #bf506c;
-}
-.cid-rkOLFsfq1T .title {
-  margin-bottom: 2rem;
-}
-.cid-rkOLFsfq1T .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-rkOLFsfq1T a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rkOLFsfq1T a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rkOLFsfq1T .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-rkOLFsfq1T .input-group-btn {
-  display: block;
-  text-align: center;
-}
-.cid-rkOLFsfq1T LABEL {
-  color: #ffffff;
-}
-.cid-rkOLFsfq1T H2 {
-  color: #cccccc;
-}
