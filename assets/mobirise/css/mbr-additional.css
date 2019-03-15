@@ -1829,39 +1829,6 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-qBxNJfSrWc {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #bf506c;
-}
-.cid-qBxNJfSrWc .title {
-  margin-bottom: 2rem;
-}
-.cid-qBxNJfSrWc .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-qBxNJfSrWc a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qBxNJfSrWc a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qBxNJfSrWc .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qBxNJfSrWc .input-group-btn {
-  display: block;
-  text-align: center;
-}
-.cid-qBxNJfSrWc LABEL {
-  color: #ffffff;
-}
-.cid-qBxNJfSrWc H2 {
-  color: #cccccc;
-}
 .cid-qBDqRU9tg6 {
   padding-top: 15px;
   padding-bottom: 15px;
